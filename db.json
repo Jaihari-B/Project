@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "1dc0",
+      "email": "jaihari1020@gmail.com",
+      "password": "Jaihari@1020"
+    },
+    {
+      "id": "be24",
+      "email": "saravanan2006@gmail.com",
+      "password": "sara1234"
+    },
+    {
+      "id": "335a",
+      "email": "kmp@gmail.com",
+      "password": "kmp"
+    },
+    {
+      "id": "dada",
+      "email": "kmp@gmail.com",
+      "password": "kmp"
+    },
+    {
+      "id": "0b16",
+      "email": "naresh10@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "bb71",
+      "email": "naresh10@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "ce31",
+      "email": "naresh10@gmail.com",
+      "password": "123"
+    }
+  ]
+}
